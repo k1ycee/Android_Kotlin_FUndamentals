@@ -13,19 +13,17 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa83a4f-0255-4203-be10-478e370a61ae" name="Default Changelist" comment="About Navigation">
+    <list default="true" id="8fa83a4f-0255-4203-be10-478e370a61ae" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/options_menu.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation" afterDir="true" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,10 +176,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="439" y="136" width="478" height="529" key="AndroidProcessChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1627296320878" />
-    <state x="182" y="27" width="991" height="741" key="CommitChangelistDialog2" timestamp="1627670954113">
+    <state x="182" y="27" width="991" height="741" key="CommitChangelistDialog2" timestamp="1627670987405">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="182" y="27" width="991" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1627670954113" />
+    <state x="182" y="27" width="991" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1627670987405" />
     <state width="1320" height="239" key="GridCell.Tab.0.bottom" timestamp="1627296251548">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -198,5 +196,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="239" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1627296251547" />
+    <state x="278" y="294" key="svn.passwordDialog" timestamp="1627671066126">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="294" key="svn.passwordDialog/0.27.1366.741@0.27.1366.741" timestamp="1627671066126" />
   </component>
 </project>
