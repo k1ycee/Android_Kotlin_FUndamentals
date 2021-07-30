@@ -13,18 +13,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa83a4f-0255-4203-be10-478e370a61ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/options_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation" afterDir="true" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8fa83a4f-0255-4203-be10-478e370a61ae" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,24 +116,6 @@
     <configuration>$USER_HOME$/.subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8fa83a4f-0255-4203-be10-478e370a61ae" name="Default Changelist" comment="" />
@@ -168,10 +139,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="266" y="155" width="824" height="491" key="AndroidCreateResourceDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1627632510971" />
-    <state x="266" y="155" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1627633377726">
+    <state x="266" y="155" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1627672154658">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="266" y="155" width="824" height="491" key="AndroidCreateResourceFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1627633377726" />
+    <state x="266" y="155" width="824" height="491" key="AndroidCreateResourceFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1627672154658" />
     <state x="439" y="136" width="478" height="529" key="AndroidProcessChooserDialog" timestamp="1627296320878">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -180,22 +151,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="182" y="27" width="991" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1627670987405" />
-    <state width="1320" height="239" key="GridCell.Tab.0.bottom" timestamp="1627296251548">
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom" timestamp="1627686843030">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="239" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1627296251548" />
-    <state width="1320" height="239" key="GridCell.Tab.0.center" timestamp="1627296251547">
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1627686843030" />
+    <state width="1320" height="176" key="GridCell.Tab.0.center" timestamp="1627686843030">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="239" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1627296251547" />
-    <state width="1320" height="239" key="GridCell.Tab.0.left" timestamp="1627296251546">
+    <state width="1320" height="176" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1627686843030" />
+    <state width="1320" height="176" key="GridCell.Tab.0.left" timestamp="1627686843029">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="239" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1627296251546" />
-    <state width="1320" height="239" key="GridCell.Tab.0.right" timestamp="1627296251547">
+    <state width="1320" height="176" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1627686843029" />
+    <state width="1320" height="176" key="GridCell.Tab.0.right" timestamp="1627686843030">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="239" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1627296251547" />
+    <state width="1320" height="176" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1627686843030" />
     <state x="278" y="294" key="svn.passwordDialog" timestamp="1627671066126">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
